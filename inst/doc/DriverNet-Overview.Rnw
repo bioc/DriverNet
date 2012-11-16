@@ -117,5 +117,5 @@ res[1:2,]
 From the current analysis, it seems that the DriverNet algorithm can find the drivers in different subtypes, although cancer is a heterogeneous diease. For example, EGFR, NF1, PDGFRA and IDH1 are the defining features of different subtypes. All these genes are predicted to be drivers. In different subtypes, some genes are up-regulated or down-regulated. The Gaussian distributions can capture the information and thus help to predict the drivers. Finally, the current approach is robust to the gene expression values. 
 
 \bibliographystyle{plain}
-\bibliography{drivernet.bib}
+\bibliography{drivernet}
 \end{document}

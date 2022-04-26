@@ -2,7 +2,7 @@ Package: DriverNet
 Type: Package
 Title: Drivernet: uncovering somatic driver mutations modulating
         transcriptional networks in cancer
-Version: 1.35.0
+Version: 1.36.0
 Date: 2012-03-21
 Author: Ali Bashashati, Reza Haffari, Jiarui Ding, Gavin Ha, Kenneth
         Liu, Jamie Rosner and Sohrab Shah
